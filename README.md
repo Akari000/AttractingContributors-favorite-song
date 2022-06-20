@@ -22,4 +22,9 @@ Goal - I want contributors to help me list everyone's favorite songs.
 # List of Hobby
 1. INVOKE
 2. Beyond the time
-3. Missing You - Nhato ft.蒼姫ラピス
+3. One Last Kiss
+4. hikarie
+5. Blue Star
+6. Wang Fei Hong dou 
+7. Missing You - Nhato ft.蒼姫ラピス
+12. Blank space
