@@ -27,3 +27,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 3.千と千尋の神隠し
 4.Weathering With You（天気の子）
 5.the Truman Show
+6. ツバサ・クロニクル
+7. xxxHOLiC
